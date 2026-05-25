@@ -84,6 +84,8 @@ Voici deux comptes à utiliser pour accéder aux différentes APIs.
 | `mastermind@epita.fr`	  | `brains`   | Organisateur              			|
 | `forrest@epita.fr`      | `run`      | Utilisateur			   			|
 
+NB : N'hésitez pas à ajouter plus de personnes inscrites aux courses pour rendre votre jeu de données plus "vivant". Ces comptes sont uniquement obligatoires afin que le correcteur puisse tester vos APIs.
+
 ---
 
 ## Technologies
