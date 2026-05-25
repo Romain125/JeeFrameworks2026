@@ -122,5 +122,6 @@ Le sujet est volontairement simple techniquement. L'accent est mis sur la **qual
 Les tests automatisés et la Javadoc ne sont pas requis. Le code doit être suffisamment lisible pour se passer d'explications.
 
 N'hésitez pas à ajouter des API que vous jugez nécessaires et **qui ne sont pas explicitement dictées ci-dessus**.
+Pour plus de simplicité, toutes les plages horaires commencent et terminent à des heures fixes.
 
 **Tout projet suspicieusement similaire sera sanctionné.**
