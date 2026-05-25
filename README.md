@@ -44,7 +44,7 @@ Les zombies s'affectent eux-mêmes à une édition pour jouer les monstres sur l
 Contraintes :
 - Un zombie ne peut s'affecter qu'à des éditions futures
 - Un zombie s'affecte sur des plages de 1h minimum, il ne peut pas s'affecter plusieurs fois sur la même plage horaire.
-- Un zombie peut visualiser tous les créneaux/courses auxquels il s'est inscrit
+- Un zombie peut visualiser tous les créneaux/courses auxquels il s'est inscrit/peut s'inscrire
 - Il doit être possible pour tout le monde d'afficher un histogramme (format JSON) heure par heure du nombre de zombies présents à l'événement
 - A tout moment, une édition ne peut pas accueillir plus de zombies que sa capacité maximale
 - Un zombie ne peut pas s'affecter s'il est déjà inscrit en tant que coureur
@@ -62,7 +62,7 @@ Ils peuvent :
 Contraintes :
 - Un coureur ne peut pas s'inscrire à une édition passée
 - Un coureur ne peut pas s'inscrire deux fois à la même édition
-- Un coureur peut visualiser toutes les courses auxquelles il s'est inscrit
+- Un coureur peut visualiser toutes les courses auxquelles il s'est inscrit/peut s'inscrire
 - Le nombre total de coureurs inscrits ne peut pas dépasser la capacité du lieu
 - Un coureur ne peut pas s'inscrire à une course s'il y est déjà inscrit en tant que zombie
 - Pour toute inscription, le coureur doit être **licencié** auprès de "la fédération des survivants". Une API de vérification de licence sera bouchonnée par un `System.out.println`. Il n'est pas possible de prendre une licence plus d'une fois.
